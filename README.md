@@ -2,7 +2,7 @@
 ### I'm Saood.
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSaoodKhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
