@@ -3,9 +3,9 @@
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSaoodKhan)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSaoodKhan&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdSaoodKhan&count_private=true)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdSaoodKhan)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdSaoodKhan)](https://git.io/streak-stats)-->
 
 
 
