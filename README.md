@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaoodkhan&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" alt="mdsaoodkhan" /></p>
 
-<a href="https://instagram.com/thesaoodkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesaoodkhan" height="30" width="40" /></a>
+<a align = "center" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesaoodkhan" height="30" width="40" /></a>
 </p>
 
 
