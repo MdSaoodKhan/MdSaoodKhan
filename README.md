@@ -20,12 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaoodkhan&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" alt="mdsaoodkhan" /></p>
 
-<a align = "center" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesaoodkhan" height="30" width="40" display = "flex" justify-content = "center"/></a>
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaoodkhan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="mdsaoodkhan" /></p>
-
-
 
 [![@mdsaoodkhan's Holopin board](https://holopin.io/api/user/board?user=mdsaoodkhan)](https://holopin.io/@mdsaoodkhan)
